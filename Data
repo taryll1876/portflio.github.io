@@ -1,0 +1,14 @@
+[
+    {
+      "title": "Spring Boot Jenkins",
+      "imageUrl": "https://raw.githubusercontent.com/taryll1876/SpringBootJenkin/master/src/main/resources/static/images/spring_boot_jenkins.jpg",
+      "url": "https://github.com/taryll1876/SpringBootJenkin",
+      "color": "#6f42c1"
+    },
+    {
+      "title": "Soccer Odds Prediction",
+      "imageUrl": "https://raw.githubusercontent.com/taryll1876/SOCCER-ODDS-PREDICTION/master/images/soccer_odds_prediction.jpg",
+      "url": "https://github.com/taryll1876/SOCCER-ODDS-PREDICTION",
+      "color": "#fd7e14"
+    }
+  ]
